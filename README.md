@@ -1,3 +1,3 @@
 # Practical-Machine-Learning
 
-mandjbd
+This repo will contain my work for the practical machine learning course of Coursera's data science specialization.
